@@ -5,7 +5,7 @@ class Sum{
         int a = 6;
         int b = 9;
         Sum= a + b;
-        System.out.println(Sum);
+        System.out.println("The sum of 6 and 9 is : "+ Sum );
     }
 
 
